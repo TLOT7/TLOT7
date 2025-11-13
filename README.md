@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=800&color=7DD3FC&a… alt="typing">
+</p>
 ## Hi there 👋
 
 <!--
@@ -15,6 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm Tonkla. 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=800&color=7DD3FC&a… alt="typing">
-</p>
